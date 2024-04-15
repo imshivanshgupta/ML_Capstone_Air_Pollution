@@ -1,0 +1,20 @@
+Date: Date of data collection.
+Address: Specific location of data collection.
+State: U.S. state where data was collected.
+County: County within the state of data collection.
+City: City where data was collected.
+O3 Mean: Average Ozone level for the day.
+O3 1st Max Value: Highest Ozone level for the day.
+O3 1st Max Hour: Hour of highest Ozone level.
+O3 AQI: Air Quality Index for Ozone.
+CO Mean: Average Carbon Monoxide level for the day.
+CO 1st Max Value: Highest Carbon Monoxide level for the day.
+CO 1st Max Hour: Hour of highest Carbon Monoxide level.
+CO AQI: Air Quality Index for Carbon Monoxide.
+SO2 Mean: Average Sulphur Dioxide level for the day.
+SO2 1st Max Value: Highest Sulphur Dioxide level for the day.
+SO2 1st Max Hour: Hour of highest Sulphur Dioxide level.
+SO2 AQI: Air Quality Index for Sulphur Dioxide.
+NO2 Mean: Average Nitrogen Dioxide level for the day.
+NO2 1st Max Value: Highest Nitrogen Dioxide level for the day.
+NO2 1st Max Hour: Hour of highest Nitrogen Dioxide level.
